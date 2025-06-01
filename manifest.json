@@ -1,0 +1,16 @@
+
+{
+  "name": "Stazione Meteo IROME8355",
+  "short_name": "Meteo IROME8355",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#e0f2ff",
+  "theme_color": "#0078D7",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}
